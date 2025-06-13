@@ -143,4 +143,4 @@ const Warehouses: React.FC = () => {
   );
 };
 
-export default Warehouses; 
+export default Warehouses;
